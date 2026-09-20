@@ -1,0 +1,24 @@
+{
+  "name": "betech-assignment-01",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Morgans12/Betech-assignment#readme",
+  "bugs": {
+    "url": "https://github.com/Morgans12/Betech-assignment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morgans12/Betech-assignment.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "common.js",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1"
+  }
+}
